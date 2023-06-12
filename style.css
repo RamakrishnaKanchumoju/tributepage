@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: wheat;
+}
+
+body{
+  width: 100%;
+  height: 2.55rem;
+  display: block;
+  justify-content:center;
+  align-items: center;
+  background-color: #EAF6F6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.title{
+  width: 100%;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  color: linear-gradient(45deg, #757fec, #000000);
+  text-align: center;
+  font-size: 55px;
+  font-style: italic;
+  text-shadow: 3px 3px 2px rgb(255, 255, 255);
+  box-shadow: 5px 5px 2px rgb(0, 0, 0);
+  font-family: 'Roboto Slab', serif;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  letter-spacing: 1.5px;
+
+}
+
+
+
+.born{
+  letter-spacing: 1 rem;
+  text-decoration: none;
+  text-align: initial;
+  font-style: oblique;
+  font-weight: none;
+}
+
+.carrer{
+    margin-top:10px;
+    font-size: medium;
+    text-shadow: #4a395f;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+.carrer img{
+  width: 200px;
+  height: auto;
+  border-color:#EAF6F6, #0a0a0a;
+  border-style: double;
+  
+}
+
+.Publications img{
+  max-width: 100px;
+  min-height: auto;
+  border-color: rgb(1, 1, 255), #EAF6F6;
+  border-style: double;
+  align-items: none;
+} 
+
+.quote p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  border-image: round;
+}
+
+
+
+
+.quote h1{
+  color: #EAF6F6;
+  background-color: #4a395f;
+  letter-spacing: 1 rem;
+  text-shadow: 2.5px 2.5px 2px 2px whitesmoke;
+  font-style: italic;
+  width: 100%;
+  height: 150px;
+  font-weight: 2rem;
+}
+
+
+
+
+
+.contact a{
+  
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  line-height: 21px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+*contact img{
+  margin: auto;
+  max-width: 100px;
+  height: 20px;
+  float: inline-start;
+  text-align: center;
+  justify-items: center;
+}
